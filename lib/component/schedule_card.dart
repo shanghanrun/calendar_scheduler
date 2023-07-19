@@ -37,7 +37,7 @@ class _Content extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const Expanded(
-      child: Text('contet'),
+      child: Text('content'),
     );
   }
 }
